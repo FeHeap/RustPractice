@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+
+basic/*/*.exe
+basic/*/*.pdb
